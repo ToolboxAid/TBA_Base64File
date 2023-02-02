@@ -215,7 +215,7 @@
                 "C:\\Users\\davidq\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\tools\\sdk\\esp32\\qio_qspi\\include",
                 "C:\\Users\\davidq\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\cores\\esp32",
                 "C:\\Users\\davidq\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\variants\\esp32",
-                "C:\\Users\\davidq\\Documents\\Arduino\\libraries\\TBA_Base64File",
+                "C:\\Users\\davidq\\Documents\\Arduino\\libraries\\TBA_Base64File\\src",
                 "C:\\Users\\davidq\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\FS\\src",
                 "C:\\Users\\davidq\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\SD\\src",
                 "C:\\Users\\davidq\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.5\\libraries\\SPI\\src",
